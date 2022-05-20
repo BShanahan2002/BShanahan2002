@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Bradley</h1>
+<h1 align="center">Hi 👋, I'm Bradley</h1>
 <h3 align="center">An Apprentice Junior Web Developer at CBJ Digital.</h3>
 
 - 🔭 I’m currently working on **Improving my skills as a developer**
