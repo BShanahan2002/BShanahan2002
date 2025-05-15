@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bradley</h1>
-<h3 align="center">An Apprentice Junior Web Developer at CBJ Digital.</h3>
+<h3 align="center">A Web Developer</h3>
 
-- 🔭 I’m currently working on **Improving my skills as a developer**
+- 🔭 I’m currently working on **Exploring Javascript frameworks**
 
-- 🌱 I’m currently learning **Various coding languages including HTML, CSS, PHP and Javascript**
+- 🌱 I’m currently learning **Mastering coding languages including HTML, CSS, PHP and Javascript**
 
 - 👯 I’m looking to collaborate on **Any project that I am able to help with**
 
-- 📫 How to reach me **bradley.shanahan@cbjdigital.com**
+- 📫 How to reach me **bshanahan2002@gmail.com**
 
 - ⚡ Fun fact **Life Long Watford FC Fan COYH🐝💛**
 
